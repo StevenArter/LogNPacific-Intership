@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that the maximum size of the Windows Application event log is at least 32768 KB (32 MB).
+This PowerShell script configures advanced IPv6 network settings in the Windows registry. It enables DHCP for IPv6 on several network interfaces, disables a risky routing feature for security, and sets specific Winsock (network communication) parameters for handling IPv6 traffic. The changes help automate and standardize how Windows handles IPv6 connections, often for security, stability, or network configuration compliance.
 
 .NOTES
     Author          : Steven Arterbery
