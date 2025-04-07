@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-This security control ensures that local drives on a client computer are not accessible during Remote Desktop sessions
+This control ensures that the lock screen slideshow is disabled on Windows 10 systems. Allowing a slideshow could inadvertently display sensitive information.
 
 .NOTES
     Author          : Steven Arterbery
