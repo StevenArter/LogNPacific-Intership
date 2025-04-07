@@ -1,7 +1,6 @@
 <#
 .SYNOPSIS
-This security control ensures that local drives on a client computer are not accessible during Remote Desktop sessions
-
+Prevents access to the camera on the lock screen to reduce the risk of unauthorized use.
 .NOTES
     Author          : Steven Arterbery
     LinkedIn        : linkedin.com/in/steven-arterbery/
