@@ -1,7 +1,6 @@
 <#
 .SYNOPSIS
-This security control ensures that local drives on a client computer are not accessible during Remote Desktop sessions
-
+Ensures that the system does not automatically connect to OEM-provided Wi-Fi hotspots, which could pose a security risk
 .NOTES
     Author          : Steven Arterbery
     LinkedIn        : linkedin.com/in/steven-arterbery/
